@@ -1,0 +1,14 @@
+a =20; 
+
+b = -2;
+
+c = 0; 
+
+d = 'Test';
+
+if isempty(c)
+    disp('matriz vacia')
+    
+else 
+    disp('no vacia')
+end
