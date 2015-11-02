@@ -1,0 +1,14 @@
+a =20; 
+
+b = -2;
+
+c = 0; 
+
+d = 'Test';
+
+if isinf(a/c)
+    disp('es infinita')
+    
+else
+    disp('no es infinita')
+end
