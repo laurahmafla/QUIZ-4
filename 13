@@ -1,0 +1,15 @@
+a = 2; 
+
+b = 3;
+
+c = 10; 
+
+d = 0;
+
+
+if a*b^2 > a*c
+    disp('se cumple')
+    
+else
+   disp('no se cumple')
+end
